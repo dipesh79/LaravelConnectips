@@ -72,7 +72,7 @@ class LaravelConnectips
      */
     public function generateData(
         string $transactionId,
-        int $transactionAmount,
+        float $transactionAmount,
         string $referenceId,
         string $remarks,
         string $particulars,
